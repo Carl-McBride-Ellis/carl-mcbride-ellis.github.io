@@ -1,4 +1,4 @@
-         .titleLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 400%; background-color: #f79453; text-decoration: none;}
+         .titleLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 300%; background-color: #f79453; text-decoration: none;}
          A.titleLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.titleLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.titleLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
