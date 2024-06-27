@@ -1,14 +1,14 @@
-         .titleLink             { color: #556b2f ;  font-weight: bold;  font-style: normal;  background-color: #f79453; text-decoration: none;}
-         A.titleLink:link       { color: #556b2f ;  background-color: #f79453; text-decoration: none;}
-         A.titleLink:visited    { color: #556b2f ;  background-color: #f79453; text-decoration: none;}
-         A.titleLink:active     { color: #556b2f ;  background-color: #f79453; text-decoration: none;}
+         .titleLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 240%; background-color: #f79453; text-decoration: none;}
+         A.titleLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
+         A.titleLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
+         A.titleLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.titleLink:hover      { text-decoration: underline; }
 
-         A.authorLink:link      { color: #800000 ;  background-color: #f79453; text-decoration: none;}
-         A.authorLink:visited   { color: #800000 ;  background-color: #f79453; text-decoration: none;}
-         A.authorLink:active    { color: #800000 ;  background-color: #f79453; text-decoration: none;}
+         A.authorLink:link      { color: #000000 ;  background-color: #f79453; text-decoration: none;}
+         A.authorLink:visited   { color: #000000 ;  background-color: #f79453; text-decoration: none;}
+         A.authorLink:active    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.authorLink:hover     { text-decoration: underline; }
-         .authornolink          { color: #800000;   font-family: Geneva, Sans-serif; font-size: 100%; background-color: #f79453; text-decoration: none;}
+         .authornolink          { color: #000000;   font-family: Geneva, Sans-serif; font-size: 100%; background-color: #f79453; text-decoration: none;}
 
          body { background-color: #f79453; text-align: left }
 
