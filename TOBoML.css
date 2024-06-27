@@ -4,25 +4,25 @@
          A.titleLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.titleLink:hover      { text-decoration: underline; }
 
-         .titleLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 200%; background-color: #f79453; text-decoration: none;}
+         .authorLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 250%; background-color: #f79453; text-decoration: none;}
          A.authorLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.authorLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.authorLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.authorLink:hover      { text-decoration: underline; }
 
-         .downloadLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 200%; background-color: #f79453; text-decoration: none;}
+         .downloadLink             { color: #000000 ;  font-weight: normal;  font-style: normal;  font-size: 150%; background-color: #f79453; text-decoration: none;}
          A.downloadLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.downloadLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.downloadLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.downloadLink:hover      { text-decoration: underline; }
 
-         .urlLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-family: "Courier New", monospace; font-size: 200%; background-color: #f79453; text-decoration: none;}
+         .urlLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-family: "Courier New", monospace; font-size: 150%; background-color: #f79453; text-decoration: none;}
          A.urlLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.urlLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.urlLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.urlLink:hover      { text-decoration: underline; }
 
-         .issueLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 200%; background-color: #f79453; text-decoration: none;}
+         .issueLink             { color: #000000 ;  font-weight: normal;  font-style: normal;  font-size: 100%; background-color: #f79453; text-decoration: none;}
          A.issueLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.issueLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.issueLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
@@ -30,7 +30,7 @@
 
          body { background-color: #f79453; text-align: left }
 
-         body, textarea { color: #808000;                     font-family: Geneva, Sans-serif;                        font-size: 150%; background-color: #f79453;}
+         body, textarea { color: #000000;                     font-family: Geneva, Sans-serif;                        font-size: 100%; background-color: #f79453;}
 
          .headder       { color: #808000;                     font-family: Verdana, Arial, Helvetica, Sans-serif;     font-size: 140%; background-color: #f79453;}
          .year          { color: #808000; font-weight: bold;  font-family: Geneva, Sans-serif;                        font-size: 120%; background-color: #f79453;}
