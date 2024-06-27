@@ -4,7 +4,7 @@
          A.titleLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.titleLink:hover      { text-decoration: underline; }
 
-         .authorLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 200%; background-color: #f79453; text-decoration: none;}
+         .authorLink             { color: #000000 ;  font-weight: bold;  font-style: normal;  font-size: 180%; background-color: #f79453; text-decoration: none;}
          A.authorLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.authorLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.authorLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
@@ -28,7 +28,7 @@
          A.issueLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: underline;}
          A.issueLink:hover      { text-decoration: underline; }
 
-         .versionLink             { color: #000000 ;  font-weight: normal;  font-style: normal;  font-size: 50%; background-color: #f79453; text-decoration: none;}
+         .versionLink             { color: #000000 ;  font-weight: normal;  font-style: normal;  font-size: 70%; background-color: #f79453; text-decoration: none;}
          A.versionLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.versionLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.versionLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
