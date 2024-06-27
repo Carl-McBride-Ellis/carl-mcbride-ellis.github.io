@@ -28,9 +28,15 @@
          A.issueLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
          A.issueLink:hover      { text-decoration: underline; }
 
+         .versionLink             { color: #000000 ;  font-weight: normal;  font-style: normal;  font-size: 50%; background-color: #f79453; text-decoration: none;}
+         A.versionLink:link       { color: #000000 ;  background-color: #f79453; text-decoration: none;}
+         A.versionLink:visited    { color: #000000 ;  background-color: #f79453; text-decoration: none;}
+         A.versionLink:active     { color: #000000 ;  background-color: #f79453; text-decoration: none;}
+         A.versionLink:hover      { text-decoration: underline; }
+
          body { background-color: #f79453; text-align: left }
 
-         body, textarea { color: #000000;                     font-family: Geneva, Sans-serif;                        font-size: 100%; background-color: #f79453;}
+         body, textarea { color: #000000;                     font-family: Geneva, Sans-serif;                        font-size: 150%; background-color: #f79453;}
 
          .headder       { color: #808000;                     font-family: Verdana, Arial, Helvetica, Sans-serif;     font-size: 140%; background-color: #f79453;}
          .year          { color: #808000; font-weight: bold;  font-family: Geneva, Sans-serif;                        font-size: 120%; background-color: #f79453;}
